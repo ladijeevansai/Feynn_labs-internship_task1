@@ -11,6 +11,12 @@ Architectures or algorithms used :- Sequential CNN, VGG
 Frameworks used :- Tensorflow, Kearas
 Libraries used :- numpy, pandas, matplotlib, sklearn, opencv etc
 
+#Dataset images
+
+![image](https://user-images.githubusercontent.com/118616059/218417165-8f0ea181-5c2a-40ad-8099-0e5e7a3cfdc5.png)
+
+
 #Analysing model accuracy and model loss
+
 ![image](https://user-images.githubusercontent.com/118616059/218416531-44213efe-ec3a-40b7-821d-6a37b370b271.png)
 
