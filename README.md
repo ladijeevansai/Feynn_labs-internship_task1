@@ -8,7 +8,9 @@ For my project, I utilized a dataset obtained from Kaggle, which was collected b
 https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 Architectures or algorithms used :- Sequential CNN, VGG 
+
 Frameworks used :- Tensorflow, Kearas
+
 Libraries used :- numpy, pandas, matplotlib, sklearn, opencv etc
 
 #Dataset images
